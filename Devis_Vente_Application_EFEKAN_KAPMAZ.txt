@@ -1,0 +1,132 @@
+================================================================================
+                           DEVIS DE VENTE
+                    APPLICATION EFEKAN KAPMAZ
+================================================================================
+
+Date : 28 Août 2025
+Référence : DEV-EFEKAN-2025-001
+
+================================================================================
+                           INFORMATIONS CLIENT
+================================================================================
+
+Entreprise : EFEKAN KAPMAZ
+Type : Gestion des Matériaux de Construction
+Contact : À compléter
+
+================================================================================
+                           DESCRIPTION DU PROJET
+================================================================================
+
+Application moderne et professionnelle de gestion des matériaux de construction
+développée spécifiquement pour l'entreprise EFEKAN KAPMAZ. Cette solution complète
+permet une gestion efficace de l'inventaire, des clients, des fournisseurs et
+des ventes.
+
+================================================================================
+                        FONCTIONNALITÉS PRINCIPALES
+================================================================================
+
+✓ GESTION DES PRODUITS
+  - Ajout, modification et suppression de produits
+  - Gestion des stocks en temps réel
+  - Catégorisation et recherche avancée
+
+✓ GESTION DES CLIENTS
+  - Base de données clients complète
+  - Historique des achats
+  - Informations de contact détaillées
+
+✓ GESTION DES FOURNISSEURS
+  - Suivi des fournisseurs
+  - Gestion des commandes
+  - Historique des relations commerciales
+
+✓ GESTION DU PANIER
+  - Interface moderne pour les ventes
+  - Calcul automatique des prix
+  - Gestion des remises
+
+✓ GÉNÉRATION DE PDF
+  - Export professionnel des données
+  - Rapports personnalisables
+  - Factures et devis
+
+✓ INTERFACE MODERNE
+  - Design professionnel avec animations
+  - Gradients et effets visuels
+  - Navigation intuitive
+
+================================================================================
+                           SPÉCIFICATIONS TECHNIQUES
+================================================================================
+
+Framework          : Windows Forms (.NET Framework 4.7.2)
+Base de données    : SQLite
+Langage            : C#
+Système d'exploitation : Windows 10/11
+Interface          : Design moderne avec animations
+Fonctionnalités    : Gestion complète + Export PDF
+
+================================================================================
+                           AVANTAGES DE L'APPLICATION
+================================================================================
+
+• Interface moderne - Design professionnel et intuitif
+• Performance optimisée - Application rapide et fluide
+• Base de données SQLite - Données sécurisées et fiables
+• Gestion complète - Tous les aspects de votre entreprise
+• Export PDF - Rapports professionnels
+• Installation simple - Prêt à utiliser immédiatement
+• Code source inclus - Possibilité de modifications futures
+• Support technique - Assistance disponible
+
+================================================================================
+                           LIVRAISON INCLUSE
+================================================================================
+
+✓ Application compilée prête à l'emploi
+✓ Code source complet avec documentation
+✓ Base de données initialisée
+✓ Guide d'installation et d'utilisation
+✓ Support technique post-livraison
+
+================================================================================
+                              PRIX DE VENTE
+================================================================================
+
+                    MONTANT TOTAL : 3 000 €
+                    (Toutes taxes comprises)
+
+================================================================================
+                           CONDITIONS DE VENTE
+================================================================================
+
+• Paiement : 50% à la commande, 50% à la livraison
+• Délai de livraison : 1 semaine après validation
+• Garantie : 6 mois sur les fonctionnalités
+• Support : 3 mois inclus, puis sur devis
+
+================================================================================
+                           CONTACT ET COMMANDE
+================================================================================
+
+Pour commander ou obtenir plus d'informations :
+
+Email : contact@efekankapmaz.com
+Téléphone : +33 (0)1 XX XX XX XX
+
+================================================================================
+                           VALIDATION DU DEVIS
+================================================================================
+
+Ce devis est valable 30 jours à compter de sa date d'émission.
+
+Signature du client : _____________________    Date : ________________
+
+Signature du vendeur : _____________________   Date : ________________
+
+================================================================================
+© 2025 EFEKAN KAPMAZ - Application de Gestion des Matériaux de Construction
+Version 2.0 Final - Développée avec les dernières technologies
+================================================================================
